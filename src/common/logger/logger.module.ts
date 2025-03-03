@@ -25,4 +25,4 @@ import createRotateTransport, {
     }),
   ],
 })
-export class LogsModule {}
+export class LoggerModule {}
